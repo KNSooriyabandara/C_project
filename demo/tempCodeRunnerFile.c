@@ -1,0 +1,1 @@
+mat4_look_at(cam_pos, target, up);
